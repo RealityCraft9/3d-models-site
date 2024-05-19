@@ -1,0 +1,8 @@
+mime_types:
+  .html: text/html
+  .css: text/css
+  .json: application/json
+  .png: image/png
+  .jpg: image/jpeg
+  .reality: model/vnd.reality
+  .usdz: model/vnd.usdz
